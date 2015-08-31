@@ -1,0 +1,3 @@
+#Duna color scheme
+A Vim color scheme customized by me.
+I'm going to build it from scratch and that may take me a while...
