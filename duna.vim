@@ -20,6 +20,15 @@ hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE 
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi CursorLineNr term=bold cterm=bold ctermbg=NONE ctermfg=8 gui=bold guibg=NONE guifg=#888888
 
+hi link NERDTreeClosable Directory
+hi link NERDTreeOpenable Directory
+hi link NERDTreeLinkDir Directory
+hi link NERDTreeExecFile Normal
+hi link NERDTreeLinkFile Normal
+hi link NERDTreeLinkTarget Special
+hi link NERDTreeRO Normal
+hi NERDTreeUp term=BOLD cterm=BOLD ctermbg=NONE ctermfg=106 gui=BOLD guibg=NONE guifg=#87af00
+
 hi link netrwClassify Identifier 
 hi link netrwDir Identifier
 hi link netrwExe Normal
