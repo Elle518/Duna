@@ -15,7 +15,7 @@ let g:colors_name="Duna"
 
 hi Comment term=NONE cterm=NONE ctermbg=NONE ctermfg=58 gui=NONE guibg=NONE guifg=#5f5f00
 hi Constant term=NONE cterm=NONE ctermbg=NONE ctermfg=230 gui=NONE guibg=NONE guifg=#ffffdf
-hi link Directory Identifier
+hi Directory term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi CursorLineNr term=bold cterm=bold ctermbg=NONE ctermfg=8 gui=bold guibg=NONE guifg=#888888
