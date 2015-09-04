@@ -39,7 +39,7 @@ hi link NERDTreeLinkTarget Special
 hi link NERDTreeRO Normal
 hi NERDTreeUp term=BOLD cterm=BOLD ctermbg=NONE ctermfg=106 gui=BOLD guibg=NONE guifg=#87af00
 
-hi link netrwClassify Identifier 
+hi link netrwClassify Identifier
 hi link netrwDir Identifier
 hi link netrwExe Normal
 hi link netrwPlain Normal
@@ -58,6 +58,8 @@ hi StatusLineNC term=reverse cterm=NONE ctermbg=15 ctermfg=232 gui=NONE guibg=#f
 hi Title term=BOLD cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Type term=NONE cterm=NONE ctermbg=NONE ctermfg=111 gui=NONE guibg=NONE guifg=#87afff
 hi VertSplit term=reverse cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffff4f guifg=#080808
+hi Visual term=reverse cterm=NONE ctermbg=236 ctermfg=NONE gui=NONE guibg=#303030 guifg=NONE
+hi VisualNOS term=bold,underline cterm=bold,underline gui=bold,underline
 
 hi link vimCommentTitle Comment
 hi link vimHiKeyList Normal
