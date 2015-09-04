@@ -57,6 +57,7 @@ hi StatusLine term=bold,reverse cterm=bold ctermbg=229 ctermfg=232 gui=bold guib
 hi StatusLineNC term=reverse cterm=NONE ctermbg=15 ctermfg=232 gui=NONE guibg=#ffffff guifg=#333333
 hi Title term=BOLD cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Type term=NONE cterm=NONE ctermbg=NONE ctermfg=111 gui=NONE guibg=NONE guifg=#87afff
+hi VertSplit term=reverse cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffff4f guifg=#080808
 
 hi link vimCommentTitle Comment
 hi link vimHiKeyList Normal
