@@ -22,6 +22,12 @@ hi Error term=reverse cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 g
 hi ErrorMsg term=standout cterm=NONE ctermbg=NONE ctermfg=196 gui=NONE guibg=NONE guifg=#ff0000
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi IncSearch term=reverse cterm=reverse ctermbg=NONE ctermfg=NONE gui=reverse guibg=NONE guifg=NONE
+
+hi helpCommand term=NONE cterm=NONE ctermbg=NONE ctermfg=222 gui=NONE guibg=NONE guifg=#ffdf87
+hi helpExample term=NONE cterm=NONE ctermbg=NONE ctermfg=162 gui=NONE guibg=NONE guifg=#d70087
+hi link helpNormal Normal
+hi link helpSectionDelim Comment
+
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi CursorLineNr term=BOLD cterm=BOLD ctermbg=NONE ctermfg=8 gui=BOLD guibg=NONE guifg=#888888
 hi ModeMsg term=BOLD cterm=BOLD ctermbg=NONE ctermfg=15 gui=BOLD guibg=NONE guifg=#ffffff
