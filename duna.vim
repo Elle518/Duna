@@ -22,6 +22,9 @@ hi IncSearch term=reverse cterm=reverse ctermbg=NONE ctermfg=NONE gui=reverse gu
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi CursorLineNr term=bold cterm=bold ctermbg=NONE ctermfg=8 gui=bold guibg=NONE guifg=#888888
 
+hi link NERDTreeBookmark Constant
+hi link NERDTreeBookmarkName Special
+hi NERDTreeBookmarkHeader term=BOLD cterm=BOLD ctermbg=NONE ctermfg=129 gui=BOLD guibg=NONE guifg=#af00ff
 hi link NERDTreeClosable Directory
 hi link NERDTreeOpenable Directory
 hi link NERDTreeLinkDir Directory
