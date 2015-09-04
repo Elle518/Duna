@@ -15,6 +15,8 @@ let g:colors_name="Duna"
 
 hi Comment term=NONE cterm=NONE ctermbg=NONE ctermfg=58 gui=NONE guibg=NONE guifg=#5f5f00
 hi Constant term=NONE cterm=NONE ctermbg=NONE ctermfg=230 gui=NONE guibg=NONE guifg=#ffffdf
+hi CursorColumn term=reverse cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
+hi CursorLine term=underline cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
 hi Directory term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi ErrorMsg term=standout cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 guifg=#ffffff
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
