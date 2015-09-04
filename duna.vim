@@ -18,11 +18,14 @@ hi Constant term=NONE cterm=NONE ctermbg=NONE ctermfg=230 gui=NONE guibg=NONE gu
 hi CursorColumn term=reverse cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
 hi CursorLine term=underline cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
 hi Directory term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
-hi Error term=standout cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 guifg=#ffffff
+hi Error term=reverse cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 guifg=#ffffff
+hi ErrorMsg term=standout cterm=NONE ctermbg=NONE ctermfg=196 gui=NONE guibg=NONE guifg=#ff0000
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi IncSearch term=reverse cterm=reverse ctermbg=NONE ctermfg=NONE gui=reverse guibg=NONE guifg=NONE
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
-hi CursorLineNr term=bold cterm=bold ctermbg=NONE ctermfg=8 gui=bold guibg=NONE guifg=#888888
+hi CursorLineNr term=BOLD cterm=BOLD ctermbg=NONE ctermfg=8 gui=BOLD guibg=NONE guifg=#888888
+hi ModeMsg term=BOLD cterm=BOLD ctermbg=NONE ctermfg=15 gui=BOLD guibg=NONE guifg=#ffffff
+hi MoreMsg term=BOLD cterm=NONE ctermbg=NONE ctermfg=104 gui=NONE guibg=NONE guifg=#8787d7
 
 hi link NERDTreeBookmark Constant
 hi link NERDTreeBookmarkName Special
