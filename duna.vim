@@ -68,3 +68,4 @@ hi link vinSetEqual Normal
 hi link vimOper Normal
 
 hi WarningMsg term=standout cterm=NONE ctermbg=NONE ctermfg=229 gui=NONE guibg=NONE guifg=#ffffaf
+hi WildMenu term=standout cterm=BOLD ctermbg=106 ctermfg=232 gui=BOLD guibg=#87af00 guifg=#080808
