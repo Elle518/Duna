@@ -21,7 +21,7 @@ hi Directory term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE g
 hi Error term=reverse cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 guifg=#ffffff
 hi ErrorMsg term=standout cterm=NONE ctermbg=NONE ctermfg=196 gui=NONE guibg=NONE guifg=#ff0000
 hi Folded term=standout cterm=NONE ctermbg=236 ctermfg=214 gui=NONE guibg=#303030 guifg=#ffaf00
-hi link FoldColumn Folded
+hi FoldColumn term=standout cterm=NONE ctermbg=236 ctermfg=214 gui=NONE guibg=#303030 guifg=#ffaf00
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi IncSearch term=reverse cterm=reverse ctermbg=NONE ctermfg=NONE gui=reverse guibg=NONE guifg=NONE
 
