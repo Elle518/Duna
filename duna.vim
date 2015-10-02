@@ -32,6 +32,7 @@ hi link helpSectionDelim Comment
 
 hi LineNr term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi CursorLineNr term=BOLD cterm=BOLD ctermbg=NONE ctermfg=8 gui=BOLD guibg=NONE guifg=#888888
+hi MatchParen term=reverse cterm=NONE ctermbg=111 ctermfg=15 gui=NONE guibg=#87afff guifg=#ffffff
 hi ModeMsg term=BOLD cterm=BOLD ctermbg=NONE ctermfg=15 gui=BOLD guibg=NONE guifg=#ffffff
 hi MoreMsg term=BOLD cterm=NONE ctermbg=NONE ctermfg=104 gui=NONE guibg=NONE guifg=#8787d7
 
