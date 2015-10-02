@@ -63,6 +63,9 @@ hi SpecialKey term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE gu
 hi Statement term=NONE cterm=NONE ctermbg=NONE ctermfg=129 gui=NONE guibg=NONE guifg=#af00ff
 hi StatusLine term=bold,reverse cterm=bold ctermbg=229 ctermfg=232 gui=bold guibg=#ffffaf guifg=#080808
 hi StatusLineNC term=reverse cterm=NONE ctermbg=15 ctermfg=232 gui=NONE guibg=#ffffff guifg=#333333
+hi TabLine term=NONE cterm=NONE ctermbg=240 ctermfg=15 gui=NONE guibg=#585858 guifg=#ffffff
+hi TabLineSel term=bold cterm=NONE ctermbg=232 ctermfg=15 gui=NONE guibg=#080808 guifg=#ffffff
+hi TabLineFill term=reverse cterm=reverse gui=reverse
 hi Title term=BOLD cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Type term=NONE cterm=NONE ctermbg=NONE ctermfg=111 gui=NONE guibg=NONE guifg=#87afff
 hi VertSplit term=reverse cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#080808
