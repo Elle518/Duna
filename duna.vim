@@ -23,7 +23,7 @@ hi ErrorMsg term=standout cterm=NONE ctermbg=NONE ctermfg=196 gui=NONE guibg=NON
 hi Folded term=standout cterm=NONE ctermbg=236 ctermfg=214 gui=NONE guibg=#303030 guifg=#ffaf00
 hi FoldColumn term=standout cterm=NONE ctermbg=236 ctermfg=214 gui=NONE guibg=#303030 guifg=#ffaf00
 hi Identifier term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
-hi Ignore ctermfg=bg guifg=bg
+hi Ignore ctermfg=0 guifg=bg
 hi IncSearch term=reverse cterm=reverse ctermbg=NONE ctermfg=NONE gui=reverse guibg=NONE guifg=NONE
 
 hi helpCommand term=NONE cterm=NONE ctermbg=NONE ctermfg=222 gui=NONE guibg=NONE guifg=#ffdf87
