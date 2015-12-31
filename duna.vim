@@ -19,6 +19,10 @@ hi Conceal term=NONE cterm=NONE ctermbg=245 ctermfg=254 gui=NONE guibg=#8a8a8a g
 hi Constant term=NONE cterm=NONE ctermbg=NONE ctermfg=230 gui=NONE guibg=NONE guifg=#ffffdf
 hi CursorColumn term=REVERSE cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
 hi CursorLine term=UNDERLINE cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
+hi DiffAdd term=NONE cterm=BOLD ctermbg=77 ctermfg=0 gui=BOLD guibg=#5fd75f guifg=#000000
+hi DiffDelete term=NONE cterm=BOLD ctermbg=203 ctermfg=0 gui=BOLD guibg=#ff5f5f guifg=#000000
+hi DiffChange term=NONE cterm=BOLD ctermbg=229 ctermfg=0 gui=BOLD guibg=#ffffaf guifg=#000000
+hi DiffText term=NONE cterm=BOLD ctermbg=123 ctermfg=0 gui=BOLD guibg=#87ffff guifg=#000000
 hi Directory term=NONE cterm=NONE ctermbg=NONE ctermfg=106 gui=NONE guibg=NONE guifg=#87af00
 hi Error term=REVERSE cterm=NONE ctermbg=196 ctermfg=15 gui=NONE guibg=#ff0000 guifg=#ffffff
 hi ErrorMsg term=STANDOUT cterm=NONE ctermbg=NONE ctermfg=196 gui=NONE guibg=NONE guifg=#ff0000
@@ -59,6 +63,10 @@ hi link netrwSymLink Normal
 
 hi NonText term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi Normal term=NONE cterm=NONE ctermbg=232 ctermfg=15 gui=NONE guibg=#080808 guifg=#ffffff
+hi Pmenu term=NONE cterm=BOLD ctermbg=106 ctermfg=0 gui=BOLD guibg=#87af00 guifg=#000000
+hi PmenuSel term=NONE cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
+hi PmenuSbar term=NONE cterm=NONE ctermbg=242 ctermfg=NONE gui=NONE guibg=#6c6c6c guifg=NONE
+hi PmenuThumb term=NONE cterm=NONE ctermbg=15 ctermfg=NONE gui=NONE guibg=#ffffff guifg=NONE
 hi PreProc term=NONE cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Question term=STANDOUT cterm=NONE ctermbg=NONE ctermfg=104 gui=NONE guibg=NONE guifg=#8787d7
 hi Search term=NONE cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#333333
