@@ -76,6 +76,7 @@ hi TabLine term=NONE cterm=NONE ctermbg=240 ctermfg=15 gui=NONE guibg=#585858 gu
 hi TabLineSel term=BOLD cterm=NONE ctermbg=232 ctermfg=15 gui=NONE guibg=#080808 guifg=#ffffff
 hi TabLineFill term=REVERSE cterm=REVERSE gui=REVERSE
 hi Title term=BOLD cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
+hi Todo term=STANDOUT cterm=BOLD ctermbg=230 ctermfg=0 gui=BOLD guibg=#ffffdf guifg=#000000
 hi Type term=NONE cterm=NONE ctermbg=NONE ctermfg=111 gui=NONE guibg=NONE guifg=#87afff
 hi Underlined term=UNDERLINE cterm=UNDERLINE ctermbg=NONE ctermfg=111 gui=UNDERLINE guibg=NONE guifg=#87afff
 hi VertSplit term=REVERSE cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#080808
