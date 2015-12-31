@@ -61,6 +61,7 @@ hi Normal term=NONE cterm=NONE ctermbg=232 ctermfg=15 gui=NONE guibg=#080808 gui
 hi PreProc term=NONE cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Question term=standout cterm=NONE ctermbg=NONE ctermfg=104 gui=NONE guibg=NONE guifg=#8787d7
 hi Search term=NONE cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#333333
+hi SignColumn term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi Special term=NONE cterm=NONE ctermbg=NONE ctermfg=214 gui=NONE guibg=NONE guifg=#ffaf00
 hi SpecialKey term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
 hi SpellBad term=REVERSE cterm=NONE ctermbg=196 ctermfg=15 gui=UNDERCURL guisp=#ff0000
