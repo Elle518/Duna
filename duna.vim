@@ -62,6 +62,10 @@ hi Question term=standout cterm=NONE ctermbg=NONE ctermfg=104 gui=NONE guibg=NON
 hi Search term=NONE cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#333333
 hi Special term=NONE cterm=NONE ctermbg=NONE ctermfg=214 gui=NONE guibg=NONE guifg=#ffaf00
 hi SpecialKey term=NONE cterm=NONE ctermbg=NONE ctermfg=8 gui=NONE guibg=NONE guifg=#888888
+hi SpellBad term=REVERSE cterm=NONE ctermbg=196 ctermfg=15 gui=UNDERCURL guisp=#ff0000
+hi SpellCap term=REVERSE cterm=NONE ctermbg=57 ctermfg=15 gui=UNDERCURL guisp=#5f00ff
+hi SpellLocal term=REVERSE cterm=NONE ctermbg=14 ctermfg=15 gui=UNDERCURL guisp=#00ffff
+hi SpellRare term=REVERSE cterm=NONE ctermbg=13 ctermfg=15 gui=UNDERCURL guisp=#ff00ff
 hi Statement term=NONE cterm=NONE ctermbg=NONE ctermfg=129 gui=NONE guibg=NONE guifg=#af00ff
 hi StatusLine term=bold,reverse cterm=bold ctermbg=229 ctermfg=232 gui=bold guibg=#ffffaf guifg=#080808
 hi StatusLineNC term=reverse cterm=NONE ctermbg=15 ctermfg=232 gui=NONE guibg=#ffffff guifg=#333333
