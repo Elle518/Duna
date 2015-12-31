@@ -77,6 +77,7 @@ hi TabLineSel term=bold cterm=NONE ctermbg=232 ctermfg=15 gui=NONE guibg=#080808
 hi TabLineFill term=reverse cterm=reverse gui=reverse
 hi Title term=BOLD cterm=NONE ctermbg=NONE ctermfg=177 gui=NONE guibg=NONE guifg=#d787ff
 hi Type term=NONE cterm=NONE ctermbg=NONE ctermfg=111 gui=NONE guibg=NONE guifg=#87afff
+hi Underlined term=UNDERLINE cterm=UNDERLINE ctermbg=NONE ctermfg=111 gui=UNDERLINE guibg=NONE guifg=#87afff
 hi VertSplit term=reverse cterm=NONE ctermbg=229 ctermfg=232 gui=NONE guibg=#ffffaf guifg=#080808
 hi Visual term=reverse cterm=NONE ctermbg=236 ctermfg=NONE gui=NONE guibg=#303030 guifg=NONE
 hi VisualNOS term=bold,underline cterm=bold,underline gui=bold,underline
