@@ -11,7 +11,7 @@ highlight clear
 if exists ("syntax_on")
 	syntax reset
 endif
-let g:colors_name="Duna"
+let g:colors_name="duna"
 
 hi ColorColumn term=NONE cterm=NONE ctermbg=236 ctermfg=251 gui=NONE guibg=#303030 guifg=#c6c6c6
 hi Comment term=NONE cterm=NONE ctermbg=NONE ctermfg=58 gui=NONE guibg=NONE guifg=#5f5f00
